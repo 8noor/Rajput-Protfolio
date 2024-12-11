@@ -2,7 +2,7 @@
 
 ### Developer Portfolio made with Next JS Framer Motion and TypeScript.
 
-![Portfolio]
+![Portfolio] (https://github.com/8noor/Rajput-Protfolio)
 ## Installation
 
 ```bash
@@ -20,10 +20,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 --- 
 ## Contact
 
-Submit Dey- [code.nanum3773@gmail.com](mailto:code.nanum@gmail.com)
+Submit Dey- [code.nanum3773@gmail.com](mailto:code.nanum3773@gmail.com)
 
 Youtube Channel: [https://www.youtube.com/@jahan7322](https://www.youtube.com/@jahan7322)
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Linkedin
+[Linkedin](www.linkedin.com/in/anum-rajput-1a080632a)
